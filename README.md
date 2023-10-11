@@ -34,11 +34,11 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="center">About me</h2>
 
 ###
 
-<p align="left">💻 Creating bugs for nearly 2 years<br>✨ I love simplicity and minimal stuff<br>📚 I'm currently learning DevOps<br>🎯 Goals: DevOps Enigneer x Game Designer<br>🎮 I love Game Development<br>🎸 I'm aesthete and I admire any art form<br>📸 I do photography as a hobby</p>
+<p align="center">💻 Creating bugs for nearly 2 years<br>✨ I love simplicity and minimal stuff<br>📚 I'm currently learning DevOps<br>🎯 Goals: DevOps Enigneer x Game Designer<br>🎮 I love Game Development<br>🎸 I'm aesthete and I admire any art form<br>📸 I do photography as a hobby</p>
 
 ###
 
