@@ -11,6 +11,9 @@
 ###
 
 <div align="center">
+   <a href="https://portfolio.joeho.ir/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" height="25" alt="portfolio logo"  />
+  </a>
   <a href="https://linkedin.com/in/joeho7576" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
