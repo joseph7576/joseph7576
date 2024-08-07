@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Yousef Hossini</h1>
+<h1 align="center">Hello 👋, I'm Yousef Hosseini</h1>
 
 ###
 
@@ -156,15 +156,3 @@
   <img src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=black&style=for-the-badge" height="30" alt="blender logo"  />
 </div>
 
-###
-
-<h2 align="center">Github Stats</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joseph7576&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=joseph7576&locale=en&mode=daily&theme=gruvbox&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
